@@ -1,0 +1,5 @@
+link: slider madewithvuejs.com
+
+tareas
+
+optimizar logo del footer, hacerlo mas pequeño en photoshop par que pese menos
